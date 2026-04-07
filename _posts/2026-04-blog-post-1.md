@@ -1,7 +1,7 @@
 ---
 title: 'Use Case 00000: Introductory Example Project'
 date: 2026-04-07
-permalink: /posts/use-case-00000/
+permalink: /posts/2026/04/blog-post-1/
 tags:
   - audio
   - visual
