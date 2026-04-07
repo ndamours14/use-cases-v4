@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AV Annotation Use Case Recipe Book"
+title: "Introduction to the AV Annotation Use Case Recipe Book"
 author_profile: true
 redirect_from: 
   - /about/
