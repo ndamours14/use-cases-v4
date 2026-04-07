@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Introduction to the AV Annotation Use Case Recipe Book
-
 ## What is the AV Annotation Use Case Recipe Book?
 Annotating audiovisual (AV) materials is a useful, multidisciplinary academic practice. AV annotation can be performed using a variety of tools, including **AVAnnotate**. 
 
